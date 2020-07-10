@@ -12,3 +12,4 @@ https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/dmetar.html
 * binary versus continuous outcomes
 * multiple effects from multiple studies? 
 * what is N (or K for that matter) when excluding unusable studies?   
+* are we studying the same outcomes in every study? or even equivalent ones? 
